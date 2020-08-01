@@ -3,8 +3,10 @@
 
 微信视频号：段智华
 CSDN博客： https://duanzhihua.blog.csdn.net/
-讲师新课：Spark+AI深度学习动手实践 https://edu.csdn.net/course/detail/29974
 
+讲师新课：Spark+AI深度学习动手实践 https://edu.csdn.net/course/detail/29974
+ 
+ 
 <!--
 **duanzhihua/duanzhihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duanzhihua)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
