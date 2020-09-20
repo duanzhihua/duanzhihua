@@ -4,7 +4,7 @@
 智华讲解课程，欢迎读者学习！
 51CTO 学院：https://edu.51cto.com/lecturer/10551036.html
 
-CSDN  平台：https://edu.csdn.net/lecturer/5426?spm=1002.2001.3001.4144
+CSDN  学院：https://edu.csdn.net/lecturer/5426?spm=1002.2001.3001.4144
 
 CSDN博客： https://duanzhihua.blog.csdn.net/
 
